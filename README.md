@@ -13,7 +13,7 @@
 - 📊 Creating statistics & data analysis tutorials, workshops, and [open educational materials](https://aspp-pandas-tutorials.github.io/pandas_from_numpy/)
 
 ### View my CV/Resume...
-[...here](https://github.com/pxr687/pxr687/blob/main/PR_CV_2026.pdf)
+[...here](https://raw.githubusercontent.com/pxr687/pxr687/blob/main/PR_CV_2026.pdf)
 
 ### Contact me
  [📧](mailto:pxr687@hotmail.com)
