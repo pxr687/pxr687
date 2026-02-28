@@ -9,8 +9,11 @@
 
 ### What I'm Working On
 
-- 🔬 Working as an Independent Contractor for NumFocus modernizing the ([Scientific Python Lecture Notes](https://lectures.scientific-python.org/about.html#authors))
-- 📊 Creating statistics & data analysis tutorials, workshops, and open educational materials
+- 🔬 Modernizing the ([Scientific Python Lecture Notes](https://lectures.scientific-python.org/about.html#authors))
+- 📊 Creating statistics & data analysis tutorials, workshops, and [open educational materials](https://aspp-pandas-tutorials.github.io/pandas_from_numpy/)
+
+### View my CV/Resume
+
 
 ### Contact me
  [📧](mailto:pxr687@hotmail.com)
