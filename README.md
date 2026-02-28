@@ -14,7 +14,7 @@
 
 ### View my CV/Resume...
 
-[...here, please download the `pdf` file to follow the hyperlinks](PR_CV_2026.pdf)
+[...here](PR_CV_2026.pdf), please download the `pdf` file to follow the hyperlinks
 
 ### Contact me
  [📧](mailto:pxr687@hotmail.com)
