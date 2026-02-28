@@ -15,9 +15,6 @@
 ### View my CV/Resume...
 <a href="https://github.com/pxr687/pxr687/blob/main/PR_CV_2026.pdf" download>...here</a>
 
-<a id="raw-url" href="https://raw.githubusercontent.com/pxr687/pxr687/blob/main/PR_CV_2026.pdf">Download FILE</a>
-
-
 ### Contact me
  [📧](mailto:pxr687@hotmail.com)
 </p>
