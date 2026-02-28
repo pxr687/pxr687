@@ -1,8 +1,8 @@
-v<h1 align="center">Hi there 👋, I'm [Peter Rush]</h1>
+v<h1 align="center">Hi there 👋, I'm Peter Rush</h1>
 
 <p align="center">
-  <em>Open-source enthusiast • Contractor @ NumFOCUS (Scientific Python ecosystem) • 
-  Passionate about statistics, programming & natural language • Former Assistant Lecturer in Data Science</em>
+  <em>Open-source software developer • Contractor @ NumFOCUS (Scientific Python ecosystem) • 
+  Passionate about data science, statistics, programming & natural language • Former Assistant Lecturer in Data Science and Psychology Research Associate </em>
 </p>
 
 <div align="center">
