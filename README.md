@@ -1,4 +1,4 @@
-v<h1 align="center">Hi there 👋, I'm Peter Rush</h1>
+<h1 align="center">Hi there 👋, I'm Peter Rush</h1>
 
 <div align="center">
 
