@@ -13,5 +13,5 @@
 - 📊 Creating statistics & data analysis tutorials, workshops, and open educational materials
 
 ### Contact me
- 📧 <a href="mailto:pxr687@hotmail.com">></a>
+ [📧](mailto:pxr687@hotmail.com)
 </p>
