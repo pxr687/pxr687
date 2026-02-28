@@ -20,4 +20,4 @@
  [📧](mailto:pxr687@hotmail.com)
 </p>
 
-# View my favourite repositories below:
+# View my code/tutorials below:
