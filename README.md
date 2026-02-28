@@ -1,8 +1,8 @@
 v<h1 align="center">Hi there 👋, I'm Peter Rush</h1>
 
 <p align="center">
-  <em>Open-source software developer • Contractor @ NumFOCUS (Scientific Python ecosystem) c 
-  Passionate about data science, statistics, programming & natural language • Former Assistant Lecturer in Data Science and Psychology Research Associate • Currently also teaching ESOL in the Global Academy at Siam University </em>
+  <em>Open-source software developer • Independent Contractor @ NumFOCUS (working on updating the Scientific Python Lecture Notes) •
+  Passionate about data science, statistics, programming & natural language • Former Assistant Lecturer in Data Science and Psychology Research Associate • Currently teaching ESOL in the Global Academy at Siam University </em>
 </p>
 
 <div align="center">
@@ -12,20 +12,12 @@ v<h1 align="center">Hi there 👋, I'm Peter Rush</h1>
 
 </div>
 
-### About Me
-
-I'm an open-source developer dedicated to building and maintaining tools in the **Scientific Python** ecosystem through my work as a contractor for **[NumFOCUS](https://numfocus.org/)** — the nonprofit home of projects like NumPy, SciPy, pandas, Matplotlib, Jupyter, and many more.
-
-With a background in **teaching** and **academia** (ex-Assistant Lecturer in Data Science), I enjoy:
-- Explaining complex statistical concepts
-- Writing clean, maintainable code
-- Helping others learn programming, statistics and data analysis
-
 ### What I'm Working On
 
-- 🔬 Contributing to NumFOCUS-affiliated projects ([Scientific Python Lecture Notes]())
-- 📊 Statistics & data analysis
-- 👨‍🏫 Creating tutorials, workshops, and open educational materials
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+- 🔬 Working as an Independent Contractor for NumFocus modernizing the ([Scientific Python Lecture Notes](https://lectures.scientific-python.org/about.html#authors))
+- 📊 Creating statistics & data analysis tutorials, workshops, and open educational materials
+
+### Contact me
+  <a href="mailto:pxr687@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 ---
