@@ -10,7 +10,7 @@
 ### What I'm Working On
 
 - 🔬 Modernizing the ([Scientific Python Lecture Notes](https://lectures.scientific-python.org/about.html#authors))
-- 📊 Creating statistics & data analysis tutorials, workshops, and [open educational materials](https://aspp-pandas-tutorials.github.io/pandas_from_numpy/)
+- 📊 Creating statistics & data analysis tutorials as [open educational materials](https://aspp-pandas-tutorials.github.io/pandas_from_numpy/)
 
 ### View my CV/Resume...
 
