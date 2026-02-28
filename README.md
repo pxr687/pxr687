@@ -18,6 +18,5 @@
 
 ### Contact me
  [📧](mailto:pxr687@hotmail.com)
-</p>
 
 # View my code/tutorials below:
