@@ -16,6 +16,8 @@
 
 [...here](PR_CV_2026.pdf)
 
+<a href="https://pxr687.github.io/pxr687/pxr687/PR_CV_2026.pdf" target="_blank">Open PDF</a> 
+
 
 ### Contact me
  [📧](mailto:pxr687@hotmail.com)
