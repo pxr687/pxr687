@@ -7,7 +7,7 @@ v<h1 align="center">Hi there 👋, I'm Peter Rush</h1>
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social)](https://github.com/pxr687)
+[![GitHub followers](https://img.shields.io/github/followers/pxr687?label=Follow&style=social)](https://github.com/pxr687)
 &nbsp;
 
 </div>
