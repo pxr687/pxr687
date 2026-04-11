@@ -1,5 +1,3 @@
-<h1 align="center">Hi👋</h1>
-
 ### What I'm Working On
 
 - 🔬 Modernizing the ([Scientific Python Lecture Notes](https://lectures.scientific-python.org/about.html#authors))
