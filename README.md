@@ -8,6 +8,6 @@
 [...here](https://pxr687.github.io/pxr687/CV_PR_2026em.pdf)
 
 ### Contact me
- [📧](mailto:pxr687@hotmail.com)
+ [📧](mailto:pxr_687@outlook.com)
 
 # View my code/tutorials below:
